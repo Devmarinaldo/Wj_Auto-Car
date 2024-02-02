@@ -14,7 +14,7 @@ section {
 }
 
 .section1 {
-    background-image: url(./../imagem/image.webp);
+    background-image: url(../imagem/image.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
